@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+        <title>Fire In The Deep</title>
+        <description>Fire In The Deep - Pyromancer</description>
+        <link>http://fireinthedeep.com</link>
+        <atom:link href="http://fireinthedeep.com/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Mon, 20 Jul 2015 13:24:56 -0700</lastBuildDate>
+        <pubDate>Mon, 20 Jul 2015 13:24:56 -0700</pubDate>
+        <ttl>60</ttl>
+
+
+        <item>
+                <title>The Start</title>
+                <description>
+&lt;h1 id=&quot;the-start-of-a-new-blog&quot;&gt;The Start of a New Blog&lt;/h1&gt;
+
+&lt;p&gt;I hope to use this new installation of &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; to document anything in particular that strikes my fancy. It will probably include technical information posts, repair work, and documentation of various systems I have setup.&lt;/p&gt;
+</description>
+                <link>http://fireinthedeep.com/2015/07/20/the-start</link>
+                <guid>http://fireinthedeep.com/2015/07/20/the-start</guid>
+                <pubDate>Mon, 20 Jul 2015 00:00:00 -0700</pubDate>
+        </item>
+
+
+</channel>
+</rss>

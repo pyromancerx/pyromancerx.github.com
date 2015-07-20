@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Fire In The Deep</title>
+ <link href="http://fireinthedeep.com/atom.xml" rel="self"/>
+ <link href="http://fireinthedeep.com"/>
+ <updated>2015-07-20T13:24:56-07:00</updated>
+ <id>http://fireinthedeep.com</id>
+ <author>
+   <name>Pyromancer</name>
+   <email>pyromancer@fireinthedeep.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>The Start</title>
+   <link href="http://fireinthedeep.com/2015/07/20/the-start"/>
+   <updated>2015-07-20T00:00:00-07:00</updated>
+   <id>http://fireinthedeep.com/2015/07/20/the-start</id>
+   <content type="html">
+&lt;h1 id=&quot;the-start-of-a-new-blog&quot;&gt;The Start of a New Blog&lt;/h1&gt;
+
+&lt;p&gt;I hope to use this new installation of &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; to document anything in particular that strikes my fancy. It will probably include technical information posts, repair work, and documentation of various systems I have setup.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

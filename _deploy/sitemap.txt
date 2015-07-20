@@ -1,0 +1,11 @@
+
+http://fireinthedeep.com/archive.html
+http://fireinthedeep.com/atom.xml
+http://fireinthedeep.com/categories.html
+http://fireinthedeep.com/index.html
+http://fireinthedeep.com/pages.html
+http://fireinthedeep.com/rss.xml
+http://fireinthedeep.com/sitemap.txt
+http://fireinthedeep.com/tags.html
+
+http://fireinthedeep.com/2015/07/20/the-start
