@@ -29,7 +29,7 @@ production_url : http://fireinthedeep.com
 
 destination: _deploy
 
-keep_files: /assets/, /CASH\ Demo\ 1.mp3, /CASH\ Demo\ 2.mp3
+keep_files: "/assets/", "/CASH Demo 1.mp3", "/CASH Demo 2.mp3"
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
