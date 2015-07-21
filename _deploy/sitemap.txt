@@ -8,4 +8,6 @@ http://fireinthedeep.com/rss.xml
 http://fireinthedeep.com/sitemap.txt
 http://fireinthedeep.com/tags.html
 
+http://fireinthedeep.com/2015/07/21/hp-6624a-repair
+http://fireinthedeep.com/2015/07/21/eip-545-repair
 http://fireinthedeep.com/2015/07/20/the-start

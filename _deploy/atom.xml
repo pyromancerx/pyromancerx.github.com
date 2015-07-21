@@ -4,13 +4,31 @@
  <title>Fire In The Deep</title>
  <link href="http://fireinthedeep.com/atom.xml" rel="self"/>
  <link href="http://fireinthedeep.com"/>
- <updated>2015-07-21T11:22:52-07:00</updated>
+ <updated>2015-07-21T12:44:16-07:00</updated>
  <id>http://fireinthedeep.com</id>
  <author>
    <name>Pyromancer</name>
    <email>pyromancer@fireinthedeep.com</email>
  </author>
 
+ 
+ <entry>
+   <title>HP 6624A Repair</title>
+   <link href="http://fireinthedeep.com/2015/07/21/hp-6624a-repair"/>
+   <updated>2015-07-21T00:00:00-07:00</updated>
+   <id>http://fireinthedeep.com/2015/07/21/hp-6624a-repair</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>EIP 545 Repair</title>
+   <link href="http://fireinthedeep.com/2015/07/21/eip-545-repair"/>
+   <updated>2015-07-21T00:00:00-07:00</updated>
+   <id>http://fireinthedeep.com/2015/07/21/eip-545-repair</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>The Start</title>
