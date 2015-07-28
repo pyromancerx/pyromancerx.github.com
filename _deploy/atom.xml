@@ -4,7 +4,7 @@
  <title>Fire In The Deep</title>
  <link href="http://fireinthedeep.com/atom.xml" rel="self"/>
  <link href="http://fireinthedeep.com"/>
- <updated>2015-07-21T13:14:42-07:00</updated>
+ <updated>2015-07-21T13:15:35-07:00</updated>
  <id>http://fireinthedeep.com</id>
  <author>
    <name>Pyromancer</name>
@@ -27,6 +27,22 @@
    <updated>2015-07-21T00:00:00-07:00</updated>
    <id>http://fireinthedeep.com/2015/07/21/eip-545-repair</id>
    <content type="html">
+&lt;p&gt;I have recently decided to put my electronic laboratory together in earnest which has necessitated the procurement of a fairly sizable amount of equipment. The primary source of these pieces of gear being ebay. The ultimate goal is to be able to handle nearly all electronics projects including those into the RF bands. Equipment with capabilities into the GHz range being favored.&lt;/p&gt;
+
+&lt;p&gt;The EIP in question was sourced as a best offer and after some back and forth with the liquidator was acquired on an AS-IS basis with some erroneous reports of error codes from the seller. The unit had no installed options and only performed as a counter.&lt;/p&gt;
+
+&lt;p&gt;The unit did perform fine for its first day in the lab under initial self testing and was setup on the equipment shelving.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-JwqvFW8Fcus/Va6yqHDeeWI/AAAAAAAAdI4/PSn9Ko-nhQA/s2048-Ic42/IMG_0840.JPG&quot; alt=&quot;In Rack&quot; /&gt;)&lt;/p&gt;
+
+&lt;p&gt;A couple days later which testing some of the other recent additions the counter failed with a possible whiff of magic smoke. The manuals troubleshooting guide pointed towards part of the acquisition chain. After opening the unit and initially examining the acquisition chain and seeing no obvious fault, I power the unit back up with the cover still off. Almost immediately the offending failed part in the power supply began to smoke again. After extracting the module it was very easy to find the failed capacitor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-qjEU68qWLrI/Va6yqHu3k5I/AAAAAAAAdJA/1ISlIcTNa8U/s2048-Ic42/IMG_0870.JPG&quot; alt=&quot;Failed Cap&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Extracting the cap took a small amount of effort due to the tin plated ground plane sinking extraordinary amounts of heat from my iron. Consulting the service manual again I was able to identify the scorched part as a 10 pF tantalum capacitor rated for 25 volts. I replaced it with an on hand 10 pF ceramic rated for 50 volts. The capacitor was part of the +12V rail and was causing a short to ground as it failed. This brought the rail low and caused the acquisition chain to fail. After replacement the unit has resumed normal function.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-UOIm5fmQHao/Va6yqLblwKI/AAAAAAAAdI4/ml8eaKo2yG4/s2048-Ic42/IMG_0872.JPG&quot; alt=&quot;Replaced Cap&quot; /&gt;&lt;/p&gt;
+
 </content>
  </entry>
  
